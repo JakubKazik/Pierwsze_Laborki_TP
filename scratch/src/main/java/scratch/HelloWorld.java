@@ -8,5 +8,5 @@ public class HelloWorld {
 		
 		System.out.println(greetings.sayHello(args.length>0?args[0]:null));
 	}
-
+//dodanie komentarza próbnego github//
 }
